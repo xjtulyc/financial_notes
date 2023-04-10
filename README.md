@@ -2,3 +2,4 @@
 
 [lesson 1 引论](lesson1.md)
 
+[lesson 2 经济学基本原理](lesson2.md)
