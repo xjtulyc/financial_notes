@@ -1,5 +1,7 @@
 # 通识课《经济学思维方式》课程笔记
 
+[网页连接](https://github.com/xjtulyc/financial_notes)
+
 [lesson 1 引论](./lesson1.md)
 
 [lesson 2 经济学基本原理](./lesson2.md)
