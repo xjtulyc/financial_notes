@@ -15,3 +15,7 @@
 [lesson 6 政府管制与市场还击](lesson6.md)
 
 [lesson 7 企业与企业家](lesson7.md)
+
+[lesson 8 市场结构与定价](lesson8.md)
+
+[lesson 9 公共物品与外部性](lesson9.md)
