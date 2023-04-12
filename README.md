@@ -11,3 +11,7 @@
 [lesson 4 经济效率与弹性](lesson4.md)
 
 [lesson 5 征税与补贴](lesson5.md)
+
+[lesson 6 政府管制与市场还击](lesson6.md)
+
+[lesson 7 企业与企业家](lesson7.md)
