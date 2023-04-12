@@ -19,3 +19,5 @@
 [lesson 8 市场结构与定价](lesson8.md)
 
 [lesson 9 公共物品与外部性](lesson9.md)
+
+[lesson 10 信息与不对称信息](lesson10.md)
